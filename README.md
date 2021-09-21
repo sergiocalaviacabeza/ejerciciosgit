@@ -22,3 +22,4 @@
 - Modifica la rama de trabajo y sube los cambios.
 - Funde el trabajo en la rama master y súbela.
 - Borra la rama de trabajo en local y en remoto.
+Modifico README
